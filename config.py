@@ -13,7 +13,7 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iamakki001")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Nooneisminee")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME","odsmusicbot")
 # --------------------------------------------------------
@@ -51,8 +51,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SSTXMUSIC_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SST_COMMUNITYY")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "Iamhyper777")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DragonByteGc")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
